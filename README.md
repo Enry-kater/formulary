@@ -1,8 +1,5 @@
 
-                    <head>
-                                      <title>
-                                           formulario de registro
-                                      </title>
+                                </title>
 </head>
 <body>
 <h1>Formulario</h1>
